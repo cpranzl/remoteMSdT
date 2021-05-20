@@ -9,8 +9,6 @@
 * [Anti-Static Project Tray](https://eustore.ifixit.com/collections/organization-tools/products/anti-static-project-tray)
 * [Breadboards](https://de.aliexpress.com/item/32624119308.html)
 
-* Breadboard
-
 # Cosumeables
 * Solder
 * [Mixed solid wire kit](https://de.aliexpress.com/item/4000169762018.html)
